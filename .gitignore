@@ -126,3 +126,4 @@ dmypy.json
 
 #Exclude Dataset
 Raw Data/
+checkpoints/
